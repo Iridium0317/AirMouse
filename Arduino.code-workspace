@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Arduino"
+		},
+		{
+			"name": "GestureLamp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
